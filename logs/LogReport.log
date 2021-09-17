@@ -1,0 +1,379 @@
+[INFO ] 2021-09-14 18:15:16.102 [main] Log - fsfasfafa
+[FATAL] 2021-09-14 18:15:16.106 [main] Log - cszcacaddad
+[ERROR] 2021-09-14 18:15:16.106 [main] Log - mjlkmlkl
+[WARN ] 2021-09-14 18:15:16.106 [main] Log - kjhbhdxd
+[INFO ] 2021-09-14 18:33:23.144 [main] LoginTest - message
+[INFO ] 2021-09-14 18:34:39.976 [main] LoginTest - message
+[INFO ] 2021-09-14 20:56:20.666 [main] LoginTest - message
+[INFO ] 2021-09-14 21:04:12.334 [main] LoginTest - message
+[INFO ] 2021-09-14 21:09:49.842 [main] LoginTest - message
+[INFO ] 2021-09-14 22:54:41.144 [main] LoginTest - message
+[INFO ] 2021-09-14 23:00:16.495 [main] LoginTest - message
+[INFO ] 2021-09-14 23:01:26.170 [main] LoginTest - message
+[INFO ] 2021-09-14 23:02:44.062 [main] LoginTest - message
+[INFO ] 2021-09-14 23:04:57.416 [main] LoginTest - message
+[INFO ] 2021-09-14 23:05:42.656 [main] LoginTest - message
+[INFO ] 2021-09-14 23:10:06.115 [main] LoginTest - message
+[INFO ] 2021-09-14 23:14:50.049 [main] LoginTest - message
+[INFO ] 2021-09-14 23:25:21.065 [main] LoginTest - message
+[INFO ] 2021-09-14 23:26:07.411 [main] LoginTest - message
+[INFO ] 2021-09-14 23:27:55.434 [main] LoginTest - message
+[INFO ] 2021-09-14 23:29:28.622 [main] LoginTest - message
+[INFO ] 2021-09-14 23:30:24.876 [main] LoginTest - message
+[INFO ] 2021-09-14 23:31:04.234 [main] LoginTest - message
+[INFO ] 2021-09-14 23:32:40.404 [main] LoginTest - message
+[INFO ] 2021-09-14 23:33:11.612 [main] LoginTest - message
+[INFO ] 2021-09-14 23:34:29.509 [main] LoginTest - message
+[INFO ] 2021-09-15 16:32:03.809 [main] LoginTest - message
+[INFO ] 2021-09-15 16:39:17.461 [main] LoginTest - message
+[INFO ] 2021-09-16 02:49:56.288 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:49:56.290 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:49:56.431 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:49:56.542 [main] BaseTest - password entered:guptavash
+[INFO ] 2021-09-16 02:49:56.615 [main] BaseTest - Login failed
+[INFO ] 2021-09-16 02:50:12.443 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:50:12.443 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:50:12.577 [main] BaseTest - username entered:vashugupta@gmail.com
+[INFO ] 2021-09-16 02:50:12.696 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:50:12.785 [main] BaseTest - Login failed
+[INFO ] 2021-09-16 02:53:16.752 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:53:16.758 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:53:16.909 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:53:17.030 [main] BaseTest - password entered:guptavash
+[INFO ] 2021-09-16 02:53:17.097 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:53:27.069 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:53:27.069 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:53:27.204 [main] BaseTest - username entered:vashugupta@gmail.com
+[INFO ] 2021-09-16 02:53:27.344 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:53:27.400 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:53:39.529 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:53:39.529 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:53:39.677 [main] BaseTest - username entered:vashugupta@gmail.com
+[INFO ] 2021-09-16 02:53:39.821 [main] BaseTest - password entered:guptavash
+[INFO ] 2021-09-16 02:53:39.888 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:54:01.074 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:54:01.074 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:57:57.168 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:57:57.173 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:57:57.343 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:57:57.463 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:57:57.516 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:58:29.739 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:58:29.747 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:58:29.908 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:58:30.029 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:58:30.082 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:59:16.725 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:59:16.735 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:59:16.932 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:59:17.041 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:59:17.101 [main] BaseTest - Login done
+[INFO ] 2021-09-16 02:59:53.374 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 02:59:53.381 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 02:59:53.525 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 02:59:53.639 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 02:59:53.707 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:00:14.893 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 03:00:14.900 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 03:00:15.052 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 03:00:15.171 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 03:00:15.225 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:00:15.259 [main] BaseTest - Assert Done
+[INFO ] 2021-09-16 03:00:15.261 [main] BaseTest - testcase done
+[INFO ] 2021-09-16 03:04:46.683 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 03:04:46.690 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 03:04:46.831 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 03:04:46.950 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 03:04:47.232 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:06:20.711 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 03:06:20.720 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 03:06:20.874 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 03:06:20.987 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 03:06:21.266 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:07:25.857 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 03:07:25.872 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 03:07:26.020 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 03:07:26.131 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 03:07:26.383 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:07:27.564 [main] BaseTest - Assert Done
+[INFO ] 2021-09-16 03:07:27.565 [main] BaseTest - testcase done
+[INFO ] 2021-09-16 03:08:02.990 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 03:08:02.999 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 03:08:03.181 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 03:08:03.294 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 03:08:03.344 [main] BaseTest - Login done
+[INFO ] 2021-09-16 03:08:04.743 [main] BaseTest - Assert Done
+[INFO ] 2021-09-16 03:08:04.744 [main] BaseTest - testcase done
+[INFO ] 2021-09-16 13:37:14.485 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 13:40:15.995 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 13:40:16.017 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 13:40:16.304 [main] BaseTest - username entered:guptavashu
+[INFO ] 2021-09-16 13:40:16.607 [main] BaseTest - password entered:yes
+[INFO ] 2021-09-16 13:40:16.774 [main] BaseTest - Login done
+[INFO ] 2021-09-16 13:40:59.619 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 13:40:59.629 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 13:40:59.953 [main] BaseTest - username entered:guptavashu
+[INFO ] 2021-09-16 13:41:00.146 [main] BaseTest - password entered:yes
+[INFO ] 2021-09-16 13:41:00.286 [main] BaseTest - Login done
+[INFO ] 2021-09-16 13:41:58.921 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 13:41:58.941 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 13:41:59.531 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 13:41:59.931 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 13:42:00.141 [main] BaseTest - Login done
+[INFO ] 2021-09-16 13:43:22.818 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 13:43:22.838 [main] BaseTest - Test execution start
+[INFO ] 2021-09-16 13:43:23.332 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 13:43:23.648 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 13:43:23.773 [main] BaseTest - Login done
+[INFO ] 2021-09-16 14:29:00.328 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 15:27:52.295 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 16:49:16.513 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 16:49:16.532 [main] BaseTest - Test case start
+[INFO ] 2021-09-16 16:49:17.014 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 16:49:17.332 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 16:49:17.461 [main] BaseTest - login done
+[INFO ] 2021-09-16 16:49:17.836 [main] BaseTest - product Name entered:iphone 8
+[INFO ] 2021-09-16 16:55:16.643 [main] BaseTest - toCheckForTestExecution
+[INFO ] 2021-09-16 16:55:16.669 [main] BaseTest - Test case start
+[INFO ] 2021-09-16 16:55:17.250 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 16:55:17.711 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 16:55:17.890 [main] BaseTest - login done
+[INFO ] 2021-09-16 16:55:18.162 [main] BaseTest - product Name entered:iphone 8
+[INFO ] 2021-09-16 16:55:18.254 [main] BaseTest - clicked on search
+[INFO ] 2021-09-16 16:55:23.093 [main] BaseTest - clicked on product
+[INFO ] 2021-09-16 16:55:25.969 [main] BaseTest - clicked to add to cart
+[INFO ] 2021-09-16 16:55:28.636 [main] BaseTest - clicked on place order
+[INFO ] 2021-09-16 16:55:29.150 [main] BaseTest - clicked on deliver here
+[INFO ] 2021-09-16 16:55:29.250 [main] BaseTest - clicked on continue
+[INFO ] 2021-09-16 16:55:29.252 [main] BaseTest - Test case end
+[INFO ] 2021-09-16 19:01:47.671 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 19:04:14.129 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 19:14:53.988 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 19:15:23.877 [main] BaseTest - testcase done
+[INFO ] 2021-09-16 19:15:23.880 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 19:19:09.202 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 19:19:35.967 [main] BaseTest - testcase done
+[INFO ] 2021-09-16 19:19:35.970 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 19:23:51.538 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 19:24:09.555 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 20:04:47.056 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 20:05:16.613 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 20:05:28.445 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 20:51:07.019 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 20:51:41.413 [main] BaseTest - toCheckForTestExecution:Add Address
+[INFO ] 2021-09-16 20:51:41.414 [main] BaseTest - Test start:Add Address
+[INFO ] 2021-09-16 20:51:41.560 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 20:51:41.663 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 20:51:41.737 [main] BaseTest - login done
+[INFO ] 2021-09-16 20:51:43.612 [main] BaseTest - clicked on profile
+[INFO ] 2021-09-16 20:51:43.768 [main] BaseTest - clicked on manage address
+[INFO ] 2021-09-16 20:51:44.198 [main] BaseTest - clickAddNewAddress
+[INFO ] 2021-09-16 20:51:44.270 [main] BaseTest - name entered:Aka Kaioken
+[INFO ] 2021-09-16 20:51:44.361 [main] BaseTest - mobile number entered
+[INFO ] 2021-09-16 20:51:44.439 [main] BaseTest - pincode entered
+[INFO ] 2021-09-16 20:51:44.510 [main] BaseTest - locality name entered:noida
+[INFO ] 2021-09-16 20:51:44.576 [main] BaseTest - address entered:nimbus
+[INFO ] 2021-09-16 20:51:44.647 [main] BaseTest - state entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 20:51:44.695 [main] BaseTest - button clicked
+[INFO ] 2021-09-16 20:51:44.744 [main] BaseTest - Address saved
+[INFO ] 2021-09-16 20:51:44.745 [main] BaseTest - Test endAdd Address
+[INFO ] 2021-09-16 20:51:44.747 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 21:56:52.134 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 21:57:27.011 [main] BaseTest - toCheckForTestExecution:invalid password
+[INFO ] 2021-09-16 21:57:27.012 [main] BaseTest - Test execution start:invalid password
+[INFO ] 2021-09-16 21:57:27.186 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 21:57:27.307 [main] BaseTest - password entered:guptavash
+[INFO ] 2021-09-16 21:57:27.378 [main] BaseTest - Login failed
+[INFO ] 2021-09-16 21:57:32.587 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 21:57:39.154 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 21:58:04.297 [main] BaseTest - toCheckForTestExecution:invalid username
+[INFO ] 2021-09-16 21:58:04.297 [main] BaseTest - Test execution start:invalid username
+[INFO ] 2021-09-16 21:58:04.452 [main] BaseTest - username entered:vashugupta@gmail.com
+[INFO ] 2021-09-16 21:58:04.583 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 21:58:04.647 [main] BaseTest - Login failed
+[INFO ] 2021-09-16 21:58:09.886 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 21:58:15.327 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 21:58:34.439 [main] BaseTest - toCheckForTestExecution:invalid Login
+[INFO ] 2021-09-16 21:58:34.440 [main] BaseTest - Test execution start:invalid Login
+[INFO ] 2021-09-16 21:58:34.577 [main] BaseTest - username entered:vashugupta@gmail.com
+[INFO ] 2021-09-16 21:58:34.692 [main] BaseTest - password entered:guptavash
+[INFO ] 2021-09-16 21:58:34.771 [main] BaseTest - Login failed
+[INFO ] 2021-09-16 21:58:40.000 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 21:58:45.399 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 21:59:10.409 [main] BaseTest - toCheckForTestExecution:Null value login
+[INFO ] 2021-09-16 21:59:10.409 [main] BaseTest - Test execution start:Null value login
+[INFO ] 2021-09-16 21:59:11.280 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:31:48.791 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:32:26.647 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:33:03.951 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:33:19.880 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:33:35.851 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:34:11.263 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:36:30.741 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:37:04.665 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:39:08.670 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:39:44.252 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 22:44:21.358 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:53:57.873 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:55:02.280 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 22:55:31.339 [main] BaseTest - toCheckForTestExecution:Login for all testCase
+[INFO ] 2021-09-16 22:55:31.342 [main] BaseTest - Test case Start:Login for all testCase
+[INFO ] 2021-09-16 22:55:31.838 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-16 22:55:32.270 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-16 22:55:32.579 [main] BaseTest - login done
+[INFO ] 2021-09-16 22:55:35.488 [main] BaseTest - clicked on profile
+[INFO ] 2021-09-16 22:55:36.003 [main] BaseTest - logout done
+[INFO ] 2021-09-16 22:55:36.013 [main] BaseTest - test case end:Login for all testCase
+[INFO ] 2021-09-16 22:55:36.024 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:21:09.285 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:21:39.055 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:33:55.109 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:34:24.129 [main] BaseTest - test case start:tab Functionality
+[INFO ] 2021-09-16 23:34:24.647 [main] BaseTest - hover over the electronic tab
+[INFO ] 2021-09-16 23:34:24.890 [main] BaseTest - hover over the camera tab
+[INFO ] 2021-09-16 23:34:25.161 [main] BaseTest - click on dslr
+[INFO ] 2021-09-16 23:34:32.065 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:35:39.304 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:36:05.198 [main] BaseTest - test case start:tab Functionality
+[INFO ] 2021-09-16 23:36:05.733 [main] BaseTest - hover over the electronic tab
+[INFO ] 2021-09-16 23:36:05.965 [main] BaseTest - hover over the camera tab
+[INFO ] 2021-09-16 23:36:06.259 [main] BaseTest - click on dslr
+[INFO ] 2021-09-16 23:36:07.554 [main] BaseTest - Testcase end:tab Functionality
+[INFO ] 2021-09-16 23:36:07.563 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:45:06.834 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:45:32.699 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:45:33.076 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:45:33.731 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:45:34.273 [main] BaseTest - select the origin
+[INFO ] 2021-09-16 23:45:34.745 [main] BaseTest - select departure
+[INFO ] 2021-09-16 23:45:40.840 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:45:50.880 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:46:01.761 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:46:02.052 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:46:02.556 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:46:03.302 [main] BaseTest - select the origin
+[INFO ] 2021-09-16 23:46:03.529 [main] BaseTest - select departure
+[INFO ] 2021-09-16 23:46:34.075 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:47:00.167 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:47:00.604 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:47:01.329 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:47:02.202 [main] BaseTest - select the origin
+[INFO ] 2021-09-16 23:47:02.452 [main] BaseTest - select departure
+[INFO ] 2021-09-16 23:47:21.662 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:47:47.859 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:47:48.217 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:47:48.796 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:47:49.450 [main] BaseTest - select the origin
+[INFO ] 2021-09-16 23:47:49.699 [main] BaseTest - select departure
+[INFO ] 2021-09-16 23:47:55.759 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:48:06.812 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:49:05.165 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:49:31.514 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:49:31.939 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:49:32.707 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:49:33.170 [main] BaseTest - select the origin
+[INFO ] 2021-09-16 23:49:33.952 [main] BaseTest - select departure
+[INFO ] 2021-09-16 23:49:39.990 [main] BaseTest - closing browser
+[INFO ] 2021-09-16 23:50:20.473 [main] BaseTest - Opening browser
+[INFO ] 2021-09-16 23:50:41.115 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-16 23:50:41.734 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-16 23:50:42.331 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-16 23:50:49.078 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:03:00.095 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:03:23.836 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:03:24.221 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:03:25.058 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:03:25.644 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:03:26.258 [main] BaseTest - select departure
+[INFO ] 2021-09-17 00:03:36.489 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:04:38.348 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:04:43.588 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:04:44.040 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:04:44.622 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:04:45.429 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:04:45.824 [main] BaseTest - select departure
+[INFO ] 2021-09-17 00:04:51.803 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:06:17.873 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:06:46.302 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:06:46.698 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:06:47.243 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:06:48.092 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:06:54.206 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:08:03.871 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:08:29.842 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:08:30.431 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:08:30.979 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:08:31.672 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:08:37.754 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:09:49.031 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:10:15.234 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:10:15.588 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:10:16.311 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:10:16.874 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:10:18.123 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:11:09.850 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:11:21.872 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:11:22.248 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:11:22.827 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:11:23.513 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:11:30.107 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:17:28.559 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:17:54.655 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:17:55.057 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:17:55.591 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:17:58.372 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 00:19:02.918 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 00:19:37.788 [main] BaseTest - Test Case start:one way travel
+[INFO ] 2021-09-17 00:19:38.163 [main] BaseTest - clicked on travel link
+[INFO ] 2021-09-17 00:19:38.767 [main] BaseTest - clicked on oneway radio button
+[INFO ] 2021-09-17 00:19:39.517 [main] BaseTest - select the origin
+[INFO ] 2021-09-17 00:19:39.895 [main] BaseTest - select departure
+[INFO ] 2021-09-17 00:19:45.964 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 21:52:32.105 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 21:53:01.366 [main] BaseTest - toCheckForTestExecution:login for all method
+[INFO ] 2021-09-17 21:53:01.369 [main] BaseTest - Test case Start:login for all method
+[INFO ] 2021-09-17 21:53:01.715 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-17 21:53:02.094 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-17 21:53:02.347 [main] BaseTest - login done
+[INFO ] 2021-09-17 21:53:07.787 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 22:18:59.423 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:19:28.484 [main] BaseTest - Test Case start:topOffer
+[INFO ] 2021-09-17 22:19:28.717 [main] BaseTest - click on top offer link
+[INFO ] 2021-09-17 22:19:29.020 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 22:20:21.561 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:20:48.013 [main] BaseTest - Test Case start:topOffer
+[INFO ] 2021-09-17 22:20:48.344 [main] BaseTest - click on top offer link
+[INFO ] 2021-09-17 22:20:48.715 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 22:21:32.698 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:22:04.749 [main] BaseTest - Test Case start:topOffer
+[INFO ] 2021-09-17 22:22:05.017 [main] BaseTest - click on top offer link
+[INFO ] 2021-09-17 22:22:05.428 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 22:41:07.025 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:41:20.704 [main] BaseTest - Test Case start:securityAndPrivacy
+[INFO ] 2021-09-17 22:41:25.723 [main] BaseTest - clicking on security And Privacy 
+[INFO ] 2021-09-17 22:41:25.725 [main] BaseTest - Test Case end:securityAndPrivacy
+[INFO ] 2021-09-17 22:41:25.734 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 22:41:42.438 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:41:48.038 [main] BaseTest - Test Case start:Contact page
+[INFO ] 2021-09-17 22:41:56.019 [main] BaseTest - clicking on contact us link
+[INFO ] 2021-09-17 22:42:28.750 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 22:42:55.399 [main] BaseTest - Test Case start:securityAndPrivacy
+[INFO ] 2021-09-17 22:42:57.177 [main] BaseTest - clicking on security And Privacy 
+[INFO ] 2021-09-17 22:42:57.180 [main] BaseTest - Test Case end:securityAndPrivacy
+[INFO ] 2021-09-17 22:42:57.187 [main] BaseTest - closing browser
+[INFO ] 2021-09-17 23:04:12.408 [main] BaseTest - Opening browser
+[INFO ] 2021-09-17 23:04:39.608 [main] BaseTest - Test Case start:story test case
+[INFO ] 2021-09-17 23:04:45.823 [main] BaseTest - clicking on story 
+[INFO ] 2021-09-17 23:04:45.832 [main] BaseTest - Test Case end:story test case
+[INFO ] 2021-09-17 23:04:45.849 [main] BaseTest - closing browser
+[INFO ] 2021-09-18 00:00:04.079 [main] BaseTest - Opening browser
+[INFO ] 2021-09-18 00:00:47.858 [main] BaseTest - toCheckForTestExecution:login for all method
+[INFO ] 2021-09-18 00:00:47.859 [main] BaseTest - Test case Start:login for all method
+[INFO ] 2021-09-18 00:00:48.011 [main] BaseTest - username entered:vashugupta240@gmail.com
+[INFO ] 2021-09-18 00:00:48.123 [main] BaseTest - password entered:guptavashu
+[INFO ] 2021-09-18 00:00:48.188 [main] BaseTest - login done
+[INFO ] 2021-09-18 00:00:49.804 [main] BaseTest - clicked on profile
+[INFO ] 2021-09-18 00:00:50.025 [main] BaseTest - logout done
+[INFO ] 2021-09-18 00:00:50.026 [main] BaseTest - test case end:login for all method
+[INFO ] 2021-09-18 00:00:50.030 [main] BaseTest - closing browser
+[INFO ] 2021-09-18 03:06:41.045 [main] BaseTest - Opening browser
